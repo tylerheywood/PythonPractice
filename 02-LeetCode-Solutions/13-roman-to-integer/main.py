@@ -6,7 +6,7 @@ C = 100
 D = 500
 M = 1000
 
-s = "III"
+s = "XIV"
 
 split_s = []
 
@@ -39,7 +39,6 @@ for i, rn in enumerate(split_s):
         split_s[i] = -1
     elif rn == "I":
         split_s[i] = 1
-
 
 for rn in split_s:
     total += rn
