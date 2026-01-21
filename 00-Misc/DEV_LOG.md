@@ -73,3 +73,14 @@
 - Combined CS50 with hands-on Python practice
 - Felt genuinely proud of progress in under a month
 
+## 2026-01-20
+- Focused on OOP small projects
+  - functions in classes
+  - init
+
+## 2026-01-21
+- CS50 Week 2
+- Need to go back and finish off the last touches on the inbox control system
+last change is PO detection additions.
+- Practiced projects focused on PDFPlumber and text command engines (CLI)
+

@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="796debdb-8168-4457-a845-be3cb7b9df5c" name="Changes" comment="challenge 15 completed command engine with multiple states" />
+    <list default="true" id="796debdb-8168-4457-a845-be3cb7b9df5c" name="Changes" comment="challenge 15 completed command engine with multiple states">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/00-Misc/DEV_LOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/00-Misc/DEV_LOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/00-Misc/pdf-generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/00-Misc/pdf-generator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/00-Misc/sample.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/00-Misc/sample invoices/sample.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Practice-Projects/16-PDF1-extract-text/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/01-Practice-Projects/16-PDF1-extract-text/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,43 +51,43 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.01-Two-Sum.executor": "Run",
-    "Python.02-add-two-numbers.executor": "Run",
-    "Python.03-longest-substring.executor": "Run",
-    "Python.balancetracker.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.pdf-generator.executor": "Run",
-    "Python.v3.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "master",
-    "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "/Users/tylerheywood/PycharmProjects/PythonFundamentalsPractice/01-Practice-Projects/15-command-engine-with-explicit-state",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "to.speed.mode.migration.done": "true",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.01-Two-Sum.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02-add-two-numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03-longest-substring.executor&quot;: &quot;Run&quot;,
+    &quot;Python.balancetracker.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pdf-generator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.v3.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/tylerheywood/PycharmProjects/PythonFundamentalsPractice/01-Practice-Projects/15-command-engine-with-explicit-state&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/01-Practice-Projects/15-command-engine-with-explicit-state" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Coding\PyCharm Projects\PythonFundamentalsPractice\00-Misc\sample invoices" />
       <recent name="$PROJECT_DIR$/02-LeetCode-Solutions/02-add-two-numbers" />
       <recent name="$PROJECT_DIR$/02-LeetCode-Solutions/01-two-sum" />
       <recent name="$PROJECT_DIR$/02-LeetCode-Solutions" />
       <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/01-Practice-projects" />
     </key>
   </component>
   <component name="SharedIndexes">

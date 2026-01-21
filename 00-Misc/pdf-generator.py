@@ -4,7 +4,7 @@ from pathlib import Path
 
 
 def main() -> None:
-    output_path = Path("sample.pdf")
+    output_path = Path("sample invoices/invoice_3.pdf")
 
     c = canvas.Canvas(str(output_path), pagesize=A4)
     width, height = A4
